@@ -7,5 +7,5 @@ function onOpen() {
 }
 
 function menuItem1(){
-  Browser.msgBox('Hola mundo');
+  Browser.msgBox('Hola mundo que ase');
 }
